@@ -1,3 +1,9 @@
+---
+name: Feature Proposal
+about: Present a detailed proposal / spec for a product feature or idea
+labels: proposal
+---
+
 ## Idea / Feature
 
 <!-- Please provide a concise high-level description of your idea/feature -->

@@ -1,6 +1,6 @@
 # Council Data Project Public Roadmap
 
-The official Council Data Project [public roadmap](https://github.com/CouncilDataProject/cdp-roadmap/projects/1).
+The official Council Data Project [public roadmap](https://github.com/CouncilDataProject/cdp-roadmap/issues).
 
 ---
 
